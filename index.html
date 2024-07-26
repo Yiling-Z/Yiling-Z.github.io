@@ -7,13 +7,3 @@ Here Yiling stores some of her poems.<br>
 <img src="assets/profile.jpg" alt="" style="width:200px;height:auto;">
 <br>
 <br>
-
-{% for post in site.posts limit:3 %}
-  <article>
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
-    <div>
-      {{ post.excerpt }}
-    </div>
-  </article>
-{% endfor %}
