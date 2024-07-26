@@ -4,7 +4,6 @@ title: Poems
 permalink: /poems/
 ---
 
-<h1>Poems</h1>
 <ul>
   {% for post in site.posts %}
     <li>
