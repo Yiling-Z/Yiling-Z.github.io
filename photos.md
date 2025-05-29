@@ -9,8 +9,8 @@ Some of them are actually my training/validation data.<p> I assure you these ima
 
 I better start with a belle photo of my parrot.<br>
 
-![This is a parrot image](photos/parrot1.jpg){: width="300" }
+![This is a parrot image](photos/parrot1.jpg)
 
-![This is me in SJTU](photos/yiling_in_sjtu.jpg){: width="300"}
+![This is me in SJTU](photos/yiling_in_sjtu.jpg)
 
 T.B.C.
