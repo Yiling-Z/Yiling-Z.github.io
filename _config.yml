@@ -8,4 +8,5 @@ theme: minima
 header_pages:
   - about.md
   - poems.md
+  - photos.md
 
