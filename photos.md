@@ -9,7 +9,13 @@ Some of them are actually my training/validation data. I assure you these images
 
 I better start with a belle photo of my parrot.<br>
 
-![My beautiful parrot posing for the camera](photos/parrot1.jpg){: width="50%" }
+<style>
+.responsive-img { max-width: 80%; height: auto; margin: 0 auto; display: block; }
+.img-caption { text-align: center; font-style: italic; color: #666; }
+</style>
+
+![My parrot](photos/parrot1.jpg){: .responsive-img }
+<p class="img-caption">[My beautiful parrot posing for the camera</p>
 
 *My beautiful parrot posing for the camera*
 
