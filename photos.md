@@ -9,8 +9,12 @@ Some of them are actually my training/validation data. I assure you these images
 
 I better start with a belle photo of my parrot.<br>
 
-![This is a parrot image](photos/parrot1.jpg)
+![My beautiful parrot posing for the camera](photos/parrot1.jpg){: width="50%" }
 
-![This is me in SJTU](photos/yiling_in_sjtu.jpg)
+*My beautiful parrot posing for the camera*
+
+![Me at Shanghai Jiao Tong University](photos/yiling_in_sjtu.jpg){: width="50%" }
+
+*Me at Shanghai Jiao Tong University*
 
 T.B.C.
