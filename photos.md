@@ -15,12 +15,12 @@ I better start with a belle photo of my parrot.<br>
 </style>
 
 ![My parrot](photos/parrot1.jpg){: .responsive-img }
-<p class="img-caption">[My beautiful parrot posing for the camera</p>
+<p class="img-caption">My parrot the friend</p>
 
-*My beautiful parrot posing for the camera*
+![Me at Shanghai Jiao Tong University](photos/yiling_in_sjtu.jpg){: .responsive-img }
+<p class="img-caption">Me at Shanghai Jiao Tong University</p>
 
-![Me at Shanghai Jiao Tong University](photos/yiling_in_sjtu.jpg){: width="50%" }
-
-*Me at Shanghai Jiao Tong University*
+![Me at Mount Song](photos/mount_song.jpg){: .responsive-img }
+<p class="img-caption">Me at Mount Song</p>
 
 T.B.C.
