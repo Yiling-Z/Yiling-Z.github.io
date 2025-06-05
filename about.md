@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 Hello, this is **Yiling Zhang**. I was born in **Hangzhou** in 1999. <br>
-Currently, I am engineer student at École nationale des ponts et chaussées and master student at ENS Paris-Saclay, majoring in **mathematiques** and **computer vision**. <br>
-I aim to work in the field of **medical images** after graduation in the near futur of **September 2024**. <br>
-Please contact me by email: yiling.zhang@eleves.enpc.fr <br>
- <br>
- <br>
-你好，我是**张怡泠**，1999年生于**杭州**。 <br>
-目前，我是École nationale des ponts et chaussées的工程师学生以及ENS Paris-Saclay的硕士学生，我的领域是**数学**和**计算机视觉**。 <br>
-我将在**2024年9月**毕业，希望从事**医学图像**处理和分析的工作。 <br>
-请通过邮件联系我：yiling.zhang@eleves.enpc.fr <br>
+I am now in Hangzhou doing nothing except for life.<br>
+<br>
+I recently received my master's degree in mathematics and vision (master MVA) and my engineer's degree in mathematics at École nationale des ponts et chaussées. I received a bachelor's degree in mathematics from Shanghai Jiao Tong University in 2021. In conclusion, I've always been a math student and I was doing **vision** in the master period.<br>
+I worked in AI industry in vision and in health care, where I aim to continue.<br>
+<br>
+I've been writing Chinese modern poems on and off since college, some of my works are available here, others are buried in disks of my ancient devices and on draft papers.<br>
+<br>
+Please contact me by email: yilingzhang1999[at]gmail.com, in English, Chinese or French, the order is by preference. <br>
